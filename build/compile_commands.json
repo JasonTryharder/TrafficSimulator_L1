@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/jason-nhk/Udacity/L1_Project/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -isystem /home/jason-nhk/anaconda3/include/opencv4  -std=c++17 -pthread -g   -o CMakeFiles/traffic_simulation.dir/src/Graphics.cpp.o -c /home/jason-nhk/Udacity/L1_Project/src/Graphics.cpp",
+  "file": "/home/jason-nhk/Udacity/L1_Project/src/Graphics.cpp"
+},
+{
+  "directory": "/home/jason-nhk/Udacity/L1_Project/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -isystem /home/jason-nhk/anaconda3/include/opencv4  -std=c++17 -pthread -g   -o CMakeFiles/traffic_simulation.dir/src/Intersection.cpp.o -c /home/jason-nhk/Udacity/L1_Project/src/Intersection.cpp",
+  "file": "/home/jason-nhk/Udacity/L1_Project/src/Intersection.cpp"
+},
+{
+  "directory": "/home/jason-nhk/Udacity/L1_Project/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -isystem /home/jason-nhk/anaconda3/include/opencv4  -std=c++17 -pthread -g   -o CMakeFiles/traffic_simulation.dir/src/Street.cpp.o -c /home/jason-nhk/Udacity/L1_Project/src/Street.cpp",
+  "file": "/home/jason-nhk/Udacity/L1_Project/src/Street.cpp"
+},
+{
+  "directory": "/home/jason-nhk/Udacity/L1_Project/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -isystem /home/jason-nhk/anaconda3/include/opencv4  -std=c++17 -pthread -g   -o CMakeFiles/traffic_simulation.dir/src/TrafficObject.cpp.o -c /home/jason-nhk/Udacity/L1_Project/src/TrafficObject.cpp",
+  "file": "/home/jason-nhk/Udacity/L1_Project/src/TrafficObject.cpp"
+},
+{
+  "directory": "/home/jason-nhk/Udacity/L1_Project/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -isystem /home/jason-nhk/anaconda3/include/opencv4  -std=c++17 -pthread -g   -o CMakeFiles/traffic_simulation.dir/src/TrafficSimulator-L1.cpp.o -c /home/jason-nhk/Udacity/L1_Project/src/TrafficSimulator-L1.cpp",
+  "file": "/home/jason-nhk/Udacity/L1_Project/src/TrafficSimulator-L1.cpp"
+},
+{
+  "directory": "/home/jason-nhk/Udacity/L1_Project/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -isystem /home/jason-nhk/anaconda3/include/opencv4  -std=c++17 -pthread -g   -o CMakeFiles/traffic_simulation.dir/src/Vehicle_Student.cpp.o -c /home/jason-nhk/Udacity/L1_Project/src/Vehicle_Student.cpp",
+  "file": "/home/jason-nhk/Udacity/L1_Project/src/Vehicle_Student.cpp"
+}
+]

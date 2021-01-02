@@ -1,0 +1,3 @@
+/home/jason-nhk/Udacity/L1_Project/build/CMakeFiles/rebuild_cache.dir
+/home/jason-nhk/Udacity/L1_Project/build/CMakeFiles/traffic_simulation.dir
+/home/jason-nhk/Udacity/L1_Project/build/CMakeFiles/edit_cache.dir
